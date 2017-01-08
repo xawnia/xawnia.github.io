@@ -2,13 +2,7 @@
 layout: post
 title:  "Streaming and the media industry"
 date:   2015-12-14
-categories: flags design standrad
----
----
-layout: post
-title:  "R.I.P. headphone jack?"
-date:   2016-01-08
-categories: tech cables standard opinion
+categories: flags design standard
 ---
 
 # Are we getting rid of the 3.5mm Audio Jack standard?
