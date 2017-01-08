@@ -14,16 +14,16 @@ Right now some people are upset about the lack of a 3.5mm headphone jack on the 
 The components of every connector is its physical pin layout and wiring combined with the underlaying protocol used to send electrical signals over the given wires. It seems important to mention this as nowadays it is possible to update the protocol without changing the connector (e.g. [HDMI 1.0 - 2.0](https://en.wikipedia.org/wiki/HDMI) ) whereas before in the analog world the signal was "hard-wired" to the specific pins.
 The audio Jack can be used for both speakers/headphones as well a microphones as electrical signals produced by a microphone or consumed by a speaker are the same.
 
-![](Sony-MDR-EX110AP-headphones1_thumb800.jpg)
+![](../images/2016-01-08-audio-jack/Sony-MDR-EX110AP-headphones1_thumb800.jpg)
 
 ### History
 The Audio Jack, also simply called Phone connector was [first introduced in 1878](https://en.wikipedia.org/wiki/Phone_connector_(audio)) in its original 1/4 inch (6.35mm) version. This form factor has mainly been used for manual telephone switchboards, it is however still widely used for instruments such as guitars and stage microphones as well as studio headphones. Having first been developed for the phone industry, the original Phone connector could only carry a mono audio signal. (for phones with a single microphone and a single phone handle for a single ear). 
 
-![](TexasRichardson_telephoneExchangeOperator.jpg)
+![](/images/2016-01-08-audio-jack/TexasRichardson_telephoneExchangeOperator.jpg)
 
 Over the years the Phono Jack gained two other form factors, the now ubiquitous 3.5mm Jack (also called mini-Jack), which was introduced in 1964 and popularized in 1979 by the Sony Walkman, as well as the smaller version which comes in at 2.5mm (sub-miniature jack as you might remember it from early feature phones). With the usage shifting to the music industry another pin was added to be able to carry two sound signals and be able to play back music.
 
-![](Original_Sony_Walkman_TPS-L2.JPG)
+![](images/2016-01-08-audio-jack/Original_Sony_Walkman_TPS-L2.JPG)
 
 ### electronic composition
 The jack's "pluggable" and "rotatable" design made it susceptible to upgrades because it was easy to add pins/rings to the connector to carry additional signals. Nowadays this is most commonly used to have an in-line microphone and playback controls. This might now seems pretty standard but wasn't so much the case in the days of proprietary connector before the European Union tried to [standardize](http://europa.eu/rapid/press-release_MEMO-09-301_en.htm) charging ports among phone manufacturers. Before that every company shipped their phones with their own proprietary connectors [Nokia - Pop-Port](https://en.wikipedia.org/wiki/Nokia_Pop-Port), [Sony Ericsson - FastPort](https://en.wikipedia.org/wiki/FastPort), [Apple - 30-pin](https://en.wikipedia.org/wiki/Dock_connector) and [Samsung](http://pinouts.ru/CellularPhones-P-W/all_samsung_pinout.shtml). It was only after this standardization that phone companies started providing data services and charging through mini or micro-USB and used a mini-jack connector for audio, microphones and multi-media controls. This in turn pushed the development and standardization of the mini jack.
@@ -47,11 +47,11 @@ At the interesting intersection between digital signals and the real world users
 ### A wireless future?
 I guess everyone has a love-hate relationship with wireless connections, if they don't work it's really annoying and if they work it gives you all the cable-less freedom you ever wanted. Cables are very reliable due to the shielded transmission medium that the cables provide, which also allows the usage of a very straight forwards protocol. Wireless signals, on the other hand, have to fight against all other kinds of electro-magnetic waves in the air (its medium of transmission) all while providing the most reliable, fastest and widest range of use possible to their users. This makes wireless transmitters, receivers and protocols very complicated as they have to include mechanism for noise cancellation and error correction. After years of evolution the [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) standard with additions such as [aptX](http://www.aptx.com/) has finally come to a point where it supports *almost* lossless and *virtually* lag-free audio playback which finally makes it acceptable for high-end audio applications.
 
-![](H5_black_buy_1.png)
+![](../images/2016-01-08-audio-jack/H5_black_buy_1.png)
 
 Wifi has saved us from laying cables all around the house and drilling holes through walls. Since some years we can see the same development of wireless technologies for speakers have finally freed us from using meter-long cables to send music to them; Bluetooth, [AirPlay](https://www.cnet.com/topics/speakers/best-speakers/airplay/) , [Sonos](www.sonos.com) , [Spotify Connect](https://www.spotifygear.com/) , [Google Cast](https://www.google.com/chromecast/built-in/audio/) ... And some of them also finally give us the ability to play the same music on different speakers and in different rooms without the need for any cables. Of course you can argue that this does not apply for headphones but we might be missing out on features which are just not possible right now.
 
-![](url.jpg)
+![](../images/2016-01-08-audio-jack/url.jpg)
 
 One interesting point is that at some point on its way to the ears the digital audio signal has to be converted into an analog signal which, after being amplified, will power the actual driver to produce the sounds. This conversion is done by and DAC (digital-to-analog converter) which can either be located inside the device, as is the case nowadays with mini jack devices, or it has to be inside the headphone-cable which might drive up the cost of production and retail, but it would also give people the opportunity to decide how much money the audio quality is worth to them.
 
