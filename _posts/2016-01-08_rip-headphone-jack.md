@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "R.I.P. headphone jack?"
+date:   2016-01-08
+tags: headhphone, mini-jack, 3.5mm, audio-jack, speaker, audio
+categories: tech, cables, opinion
+---
+
 # Are we getting rid of the 3.5mm Audio Jack standard?
 *The opinions expressed in this article represent purely my own and not those of my employer*
 
