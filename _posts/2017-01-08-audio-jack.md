@@ -3,6 +3,7 @@ layout: post
 title:  "R.I.P. headphone jack?"
 date:   2016-01-08
 categories: flags design standard
+comments: true
 ---
 
 # Are we getting rid of the 3.5mm Audio Jack standard?
