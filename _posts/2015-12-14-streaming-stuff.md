@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RIP headphone jack"
+title:  "R.I.P. headphone jack?"
 date:   2016-01-08
 categories: flags design standard
 ---
@@ -47,11 +47,11 @@ At the interesting intersection between digital signals and the real world users
 ### A wireless future?
 I guess everyone has a love-hate relationship with wireless connections, if they don't work it's really annoying and if they work it gives you all the cable-less freedom you ever wanted. Cables are very reliable due to the shielded transmission medium that the cables provide, which also allows the usage of a very straight forwards protocol. Wireless signals, on the other hand, have to fight against all other kinds of electro-magnetic waves in the air (its medium of transmission) all while providing the most reliable, fastest and widest range of use possible to their users. This makes wireless transmitters, receivers and protocols very complicated as they have to include mechanism for noise cancellation and error correction. After years of evolution the [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) standard with additions such as [aptX](http://www.aptx.com/) has finally come to a point where it supports *almost* lossless and *virtually* lag-free audio playback which finally makes it acceptable for high-end audio applications.
 
-![](../images/2016-01-08-audio-jack/2016-01-08-audio-jack/H5_black_buy_1.png)
+![](../images/2016-01-08-audio-jack/H5_black_buy_1.png)
 
 Wifi has saved us from laying cables all around the house and drilling holes through walls. Since some years we can see the same development of wireless technologies for speakers have finally freed us from using meter-long cables to send music to them; Bluetooth, [AirPlay](https://www.cnet.com/topics/speakers/best-speakers/airplay/) , [Sonos](www.sonos.com) , [Spotify Connect](https://www.spotifygear.com/) , [Google Cast](https://www.google.com/chromecast/built-in/audio/) ... And some of them also finally give us the ability to play the same music on different speakers and in different rooms without the need for any cables. Of course you can argue that this does not apply for headphones but we might be missing out on features which are just not possible right now.
 
-![](../images/2016-01-08-audio-jack/2016-01-08-audio-jack/url.jpg)
+![](../images/2016-01-08-audio-jack/url.jpg)
 
 One interesting point is that at some point on its way to the ears the digital audio signal has to be converted into an analog signal which, after being amplified, will power the actual driver to produce the sounds. This conversion is done by and DAC (digital-to-analog converter) which can either be located inside the device, as is the case nowadays with mini jack devices, or it has to be inside the headphone-cable which might drive up the cost of production and retail, but it would also give people the opportunity to decide how much money the audio quality is worth to them.
 
